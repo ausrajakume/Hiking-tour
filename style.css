@@ -1,0 +1,197 @@
+@media screen and (min-width: 768px){
+    .flex-start{
+        display: flex;
+        justify-content: flex-start;
+    }
+
+    span{
+        color: blue;
+    }
+
+    img{
+        height: 200px;
+        width: 200px;
+    }
+
+    h3{
+        color: blue;
+    }
+
+    .spann{
+        color: blue;
+    }
+
+    .wallet{
+        display: flex;
+        justify-content: flex-end;
+        background-color: blue;
+        width: 70px;
+        height: 70px;
+    }
+
+    .sock{
+        background-color: blue;
+        width: 70px;
+        height: 70px;
+    }
+
+    .tree{
+        background-color: blue;
+        display: flex;
+        justify-content: flex-start;
+        width: 70px;
+        height: 70px;
+    }
+
+    .tibet-price{
+        display: flex;
+        justify-content: center;
+    }
+
+    .hongkong-price{
+        display: flex;
+        justify-content: center;
+    }
+    
+    .Java-price{
+        display: flex;
+        justify-content: center;
+    }
+    
+    .alltours{
+        display: flex;
+        justify-content: center;
+    }
+    
+    .Gallery{
+        color: blue;
+        text-align: center;
+    }
+    
+    footer{
+        background-color: blue;
+    }
+    
+    .treee{
+        display: flex;
+        justify-content: flex-start;
+    }
+    
+    .tibetas{
+        box-shadow: 10px 10px 20px grey;
+    }
+    
+    .exploring{
+        text-transform: uppercase;
+        margin-bottom: 5rem;
+    }
+    
+    main{
+        background-color: blue;
+    }
+    
+    .hongkongas{
+        box-shadow: 20px 20px 50px grey;
+    }
+    
+    .Javas{
+        box-shadow: 20px 20px 50px grey;
+    }
+    
+    .picture{
+        width: 500px;
+        height: 500px;
+    }
+    
+    .featured{
+        text-align: center;
+        font-size: 25px;
+    }
+    
+    html{
+        font-family: 'Montserrat', sans-serif;
+    }
+    
+    .wantt{
+        color: white;
+    }
+    
+    .wanttt{
+        color: white;
+    }
+    
+    button{
+        display: flex;
+        justify-content: center;
+        background-color: blueviolet;
+        color: black;
+    }
+    
+    .foot{
+        background-color: black;
+    }
+}
+
+@media screen and (min-width: 1072px) {
+    .flex-start{
+        display: flex;
+        justify-content: flex-start;
+    }
+
+    span{
+        color: blue;
+    }
+
+    img{
+        height: 600px;
+        width: 600px;
+    }
+
+    .exploring{
+        text-align: center;
+        height: 700px;
+        width: 2000px;
+        background: linear-gradient(rgba(74, 63, 218, 0.7), rgba(0, 0, 0, 0.7)),
+      url("https://images.unsplash.com/photo-1504280317859-9c6cce36bca8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format")
+        center/cover no-repeat;
+    }
+
+    button{
+        display: flex;
+        justify-content: center;
+        background-color: blueviolet;
+        color: black;
+    }
+
+    .wallett{ display: flex; justify-content: flex-start;
+
+    }
+
+    .socks{
+        display: flex;
+        justify-content: center;
+    }
+
+    .treee{
+        display: flex;
+        justify-content: flex-end;
+    }
+
+    h1{
+        text-align: center;
+    }
+
+    .hiking22{
+        display: flex;
+        align-self: center;
+        height: 500px;
+        width: 800px;
+    }
+
+    button{
+        height: 65px;
+        width: 80px;
+    }
+}
+
+        
